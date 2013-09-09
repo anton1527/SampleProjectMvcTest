@@ -1,0 +1,4 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Interfaces\bin\Debug\ProjectName.Interfaces.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Interfaces\bin\Debug\ProjectName.Interfaces.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Interfaces\obj\Debug\ProjectName.Interfaces.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Interfaces\obj\Debug\ProjectName.Interfaces.pdb

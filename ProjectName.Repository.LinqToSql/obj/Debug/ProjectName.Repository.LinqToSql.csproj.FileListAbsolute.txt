@@ -1,0 +1,4 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.LinqToSql\bin\Debug\ProjectName.Repository.LinqToSql.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.LinqToSql\bin\Debug\ProjectName.Repository.LinqToSql.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.LinqToSql\obj\Debug\ProjectName.Repository.LinqToSql.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.LinqToSql\obj\Debug\ProjectName.Repository.LinqToSql.pdb

@@ -1,0 +1,4 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Model\bin\Debug\ProjectName.Model.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Model\bin\Debug\ProjectName.Model.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Model\obj\Debug\ProjectName.Model.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Model\obj\Debug\ProjectName.Model.pdb

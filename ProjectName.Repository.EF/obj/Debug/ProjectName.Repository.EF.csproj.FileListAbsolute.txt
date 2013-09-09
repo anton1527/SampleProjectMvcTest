@@ -1,0 +1,5 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.EF\bin\Debug\ProjectName.Repository.EF.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.EF\bin\Debug\ProjectName.Repository.EF.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.EF\obj\Debug\ProjectName.Repository.EF.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.EF\obj\Debug\ProjectName.Repository.EF.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository.EF\bin\Debug\ProjectName.Repository.EF.dll.config

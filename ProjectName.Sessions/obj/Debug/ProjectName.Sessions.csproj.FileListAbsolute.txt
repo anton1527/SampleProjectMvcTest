@@ -1,0 +1,4 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Sessions\bin\Debug\ProjectName.Sessions.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Sessions\bin\Debug\ProjectName.Sessions.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Sessions\obj\Debug\ProjectName.Sessions.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Sessions\obj\Debug\ProjectName.Sessions.pdb

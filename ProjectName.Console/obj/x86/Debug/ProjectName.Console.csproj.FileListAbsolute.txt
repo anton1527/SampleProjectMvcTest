@@ -1,0 +1,12 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Console.exe
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Console.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\obj\x86\Debug\ProjectName.Console.exe
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\obj\x86\Debug\ProjectName.Console.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\obj\x86\Debug\ProjectName.Console.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Console.exe.config
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Common.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Interfaces.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\log4net.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Common.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\ProjectName.Interfaces.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Console\bin\Debug\log4net.xml

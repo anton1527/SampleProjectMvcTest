@@ -1,0 +1,5 @@
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository..EF.SqlServer\bin\Debug\ProjectName.Repository._.EF.SqlServer.dll.config
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository..EF.SqlServer\bin\Debug\ProjectName.Repository._.EF.SqlServer.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository..EF.SqlServer\bin\Debug\ProjectName.Repository._.EF.SqlServer.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository..EF.SqlServer\obj\Debug\ProjectName.Repository._.EF.SqlServer.dll
+c:\users\carlos\documents\visual studio 2010\Projects\ProjectName\ProjectName.Repository..EF.SqlServer\obj\Debug\ProjectName.Repository._.EF.SqlServer.pdb
